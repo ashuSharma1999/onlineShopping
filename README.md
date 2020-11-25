@@ -1,2 +1,6 @@
 # onlineShopping
 This website made in totally base on Django python web Frame.
+To run this website on anytextEditor as like VsCode by following command....
+"python manage.py runserver"
+Than you find the link in your editor and click , Than visit my website.
+Thanku........
